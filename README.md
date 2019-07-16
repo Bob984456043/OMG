@@ -1,4 +1,4 @@
-# OMG
+# Omg
 A web app based on Flask
 ## The module we used 
 * Flask 1.0.2
